@@ -7,4 +7,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devheloisa&layout=compact)
 
-Estudante de Engenharia de Software | Apaixonado por codificação e desafios | Sempre buscando aprender e crescer."
+Estudante de Engenharia de Software | Apaixonada por codificação e desafios | Sempre buscando aprender e crescer."
